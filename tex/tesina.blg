@@ -1,0 +1,21 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'tesina.blg'
+[16] biber:313> INFO - === mar oct 16, 2018, 00:43:39
+[30] Biber.pm:371> INFO - Reading 'tesina.bcf'
+[70] Biber.pm:857> INFO - Found 33 citekeys in bib section 0
+[78] Biber.pm:3981> INFO - Processing section 0
+[85] Biber.pm:4154> INFO - Looking for bibtex format file 'tesina.bib' for section 0
+[86] bibtex.pm:1468> INFO - LaTeX decoding ...
+[114] bibtex.pm:1294> INFO - Found BibTeX data source 'tesina.bib'
+[115] Utils.pm:169> WARN - Duplicate entry key: 'visual_parsing' in file 'tesina.bib', skipping ...
+[161] Utils.pm:169> WARN - Entry 'curso_stanford' (tesina.bib): Invalid format '03-2017' of date field 'date' - ignoring
+[176] Utils.pm:169> WARN - Entry 'gan_explanation_web' (tesina.bib): Invalid format '06-2017' of date field 'date' - ignoring
+[186] Utils.pm:169> WARN - month field '06--11 Aug' in entry 'wgan_paper' is not an integer - this will probably not sort properly.
+[287] Utils.pm:169> WARN - BibTeX subsystem: /tmp/iZGawbk_sV/tesina.bib_14557.utf8, line 181, warning: undefined macro "December"
+[288] Utils.pm:169> WARN - I didn't find a database entry for crossref 'ICLR2017-conf' in entry 'warde-farley+al-2017-denoisegan-iclr' - ignoring (section 0)
+[313] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[313] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[313] Biber.pm:3809> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[337] bbl.pm:617> INFO - Writing 'tesina.bbl' with encoding 'UTF-8'
+[347] bbl.pm:720> INFO - Output to tesina.bbl
+[347] Biber.pm:110> INFO - WARNINGS: 6

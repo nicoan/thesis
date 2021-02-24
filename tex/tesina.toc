@@ -1,0 +1,110 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {spanish}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{4}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Problem\IeC {\'a}tica}{4}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Motivaci\IeC {\'o}n y objetivos}{5}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Organizaci\IeC {\'o}n del trabajo}{5}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Conceptos generales}{7}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Aprendizaje autom\IeC {\'a}tico}{7}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Aprendizaje supervisado y no supervisado}{8}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Sobreajuste}{8}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Sesgo inductivo}{10}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Redes Neuronales}{11}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descenso por el gradiente}{13}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Descenso por el gradiente estoc\IeC {\'a}stico}{18}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Optimizaci\IeC {\'o}n del aprendizaje}{19}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Preparaci\IeC {\'o}n de los datos para el entrenamiento}{19}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Batch normalization}{20}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Weight decay}{21}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dropout}{22}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Momentum}{23}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Adam}{24}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Deep Learning}{25}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Redes generativas adversarias}{27}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Entrenando una GAN}{28}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Wasserstein GANs}{29}{section*.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Distancia de Wasserstein o Earth Mover Distance}{30}{section*.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Entrenamiento de una WGAN}{31}{section*.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Contraste con las GANs}{31}{section*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Redes Convolucionales}{32}{section*.28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Capa de convoluci\IeC {\'o}n}{34}{section*.31}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Capa de pooling}{35}{section*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Capa de introducci\IeC {\'o}n de no-linearidad}{36}{section*.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Inception Score}{36}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Trabajos relacionados}{37}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Experimentos}{40}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Datasets}{40}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Yahoo Flickr Creative Commons}{41}{section*.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Preparaci\IeC {\'o}n}{44}{section*.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Microsoft COCO}{45}{section*.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Preparaci\IeC {\'o}n}{46}{section*.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Arquitectura}{47}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Generador}{49}{section*.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Discriminador}{49}{section*.49}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Entrenamiento}{50}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Resultados}{51}{section*.51}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Dataset COCO}{51}{section*.52}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{YFCC100m filtrado}{53}{section*.56}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{YFCC100m sin filtrar}{56}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Comparativa general}{57}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclusiones y trabajos futuros}{60}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Conclusiones}{60}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Trabajos futuros}{61}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Resultados del dataset COCO}{63}{appendix.Alph1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Resultados del dataset YFCC100m (filtrado)}{68}{appendix.Alph2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Resultados del dataset YFCC100m}{73}{appendix.Alph3}

@@ -1,0 +1,5 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'tesina.aux.blg'
+[28] biber:287> INFO - === mié feb  7, 2018, 17:43:19
+[48] Utils.pm:163> ERROR - Cannot find control file 'tesina.aux.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[48] Biber.pm:113> INFO - ERRORS: 1
