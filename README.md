@@ -37,7 +37,7 @@ It is clear that the results obtained with COCO dataset (with the extra channel 
 ![Selected results - COCO 3 channels](results/coco_3chan.jpg)
 
 ### YFCC100m Filtered - 4 channels
-![Selected results - YFCC100m filtered 4 channels](results/yfcc100m_4chan.png)
+![Selected results - YFCC100m filtered 4 channels](results/yfcc100m_filtered_4chan.png)
 
 ### YFCC100m - 4 channels
 ![Selected results - YFCC100m filtered 4 channels](results/yfcc100m_4chan.png)
